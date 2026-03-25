@@ -2,7 +2,15 @@
 /.idea
 *.iml
 /classes
-/build
+/build/classes
+/build/filteredCCSources
+/build/libs
+/build/generated
+/build/reports
+/build/teaVM
+/build/webMin
+/build/tmp
+/build/resources
 /out
 /node_modules
 /.gradle
